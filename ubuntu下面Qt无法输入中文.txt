@@ -1,0 +1,25 @@
+在Ubuntu18 上安装搜狗输入法，启用fcitx输入系统之后Qt Creator 无法输入中文，原因是缺少fcitx的支持库libfcitxplatforminputcontextplugin.so。
+
+解决办法
+1 查找是否安装相关库
+$ dpkg -L fcitx-frontend-qt5 | grep .so
+/usr/lib/x86_64-linux-gnu/qt5/plugins/platforminputcontexts/libfcitxplatforminputcontextplugin.so
+
+2.如果没有则下载相关库
+sudo apt-get install fcitx-frontend-qt5
+
+3 确保系统系统中存在库libfcitxplatforminputcontextplugin.so，步骤1所示
+4 将步骤1 中所示路径下的库文件拷贝到Qt插件目录下
+$ cd qt安装目录/Tools/QtCreator/lib/Qt/plugins/platforminputcontexts/
+$ sudo cp /usr/lib/x86_64-linux-gnu/qt5/plugins/platforminputcontexts/libfcitxplatforminputcontextplugin.so .
+$ sudo chmod +x libfcitxplatforminputcontextplugin.so
+ 
+重启Qt Creator 即可。
+注意
+编译程序后程序无法输入中文问题，也是缺少插件的原因。
+
+$ cd QT安装目录/5.8/gcc_64/plugins/platforminputcontexts
+$ cp /usr/lib/x86_64-linux-gnu/qt5/plugins/platforminputcontexts/libfcitxplatforminputcontextplugin.so .
+$ chmod +x libfcitxplatforminputcontextplugin.so
+
+然后重新编译即可。

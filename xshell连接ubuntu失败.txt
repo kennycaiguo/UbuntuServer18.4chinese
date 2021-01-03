@@ -1,0 +1,8 @@
+当我们在VMWare上安装好Ubuntu虚拟机后，有时候会需要使用多个terminal窗口，
+但是在虚拟机中多个窗口互相切换查看不方便，这时候用物理机的xshell工具连接到虚拟机中去就显得很方便 。
+直接连一般都会失败，原因是：未开放22端口
+所以在连接之前需要安装OpenSSH，命令如下：
+sudo apt-get install openssh-server openssh-client
+安装完成之后，执行netstat -tnl命令，查看22端口是否开通：可以看到第5行的22端口处于LISTEN状态。 
+
+
