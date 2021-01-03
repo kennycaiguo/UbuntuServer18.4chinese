@@ -1,0 +1,4 @@
+root 打开qt：这里qt安装在/opt/Qt5.14.1
+1.打开bashshell
+2.cd  /opt/Qt5.14.1/Tools/QtCreator/bin
+3. 运行：./qtcreator
