@@ -1,0 +1,2 @@
+1.这是一个Qt项目，使用qtcreator来开发
+2.需要把MyIDE.pro.user和MyIDE.pro.user.7897930删除，然后再编译，否则报错
