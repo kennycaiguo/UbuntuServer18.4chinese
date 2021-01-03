@@ -1,0 +1,2 @@
+ubuntuserver1804withdesktop+lnmp+Qt，一共63个文件下载后全选中，解压到同一个文件夹，
+非常好用
