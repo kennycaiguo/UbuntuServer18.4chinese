@@ -1,0 +1,975 @@
+我
+pron. I
+你
+prop. you
+爱
+n.v. love
+color
+n.颜色
+acid-blue 
+n. 湖色
+amber 
+n.琥珀色
+amethyst
+n.紫水晶色
+antique
+n.古紫色
+apple-green 
+n.苹果绿
+apricot 
+n.杏黄
+aqua-green
+n.水绿色
+aquamarine-blue 
+n.蓝绿色
+auburn 
+n.赤褐色
+azure-green 
+n.碧绿色
+baby-blue 
+n.浅蓝色
+baby-pink 
+n.浅粉红色
+bay n.枣色
+beige n.灰棕色
+benzo blue
+ n.靛蓝色
+black 
+n.黑色
+blue 
+n.蓝色
+blue-green 
+n.竹青色
+blue-grey 
+n.蓝灰色
+bluish-white 
+n.青白色
+bluish-yellow 
+n.青黄色
+yellow
+n.黄色
+brick-red 
+n.青莲色
+bronze-black 
+n.射光黑色
+bronze-blue 
+n.青铜蓝
+bronze-violet 
+n.射光紫蓝
+brown 
+n.棕色
+buff 
+n.浅黄色
+calamine-blue 
+n.淡蓝色
+caramel 
+n.酱色
+cardinal 
+n.深红色
+carmine 
+n.紫红色
+carnation 
+n.肉色
+celeste 
+n.天青色
+chalky 
+n.白垩的
+charcoal grey 
+n.炭灰色
+cherry 
+n.樱桃紅
+chestnut 
+n.栗褐色
+citrine 
+n.柠檬黃
+cobalt-blue 
+n.钴蓝色
+cochineal 
+n.胭脂红
+coco 
+n.黄棕色
+contrast-colot 
+n.衬色
+copper-red 
+n.铜色
+coral 
+n.珊瑚色
+cream 
+n.米色
+crystal-cream 
+n.奶油白
+dark-green 
+n.深绿色
+dark-grey 
+n.深灰色
+deep-green 
+n.墨绿色
+deep-yellow 
+n.深黄色
+delicate-color 
+n.娇色
+dun 
+n.焦茶色
+emerald-green 
+n.鲜绿色
+florid 
+n.鲜红
+french-rose 
+n.法国红
+garnet 
+n.暗红
+geranium 
+n.原色红
+gold 
+n.金
+golden-yellow 
+n.金黄色
+green 
+n.绿色
+grey 
+n.灰
+hazel 
+n.赤褐色
+hepatic 
+n.猪肝色
+hyacinth 
+n.紫蓝色
+indigo 
+n.靛青色
+ivory 
+n.象牙黄
+jade green 
+n.翠绿色
+lavender 
+n.藕色
+lias 
+n.淡紫色
+light-grey 
+n.淡灰色
+lyons-blue 
+n.蓝紫色
+mandarin-blue 
+n.深蓝
+marine-green 
+n.海水绿
+maroon 
+n.枣紅;茶色
+medium-blue 
+n.中蓝色
+medium-yellow 
+n.中黄色
+milk-white 
+n.乳白色
+white
+n.白色
+orange
+n.橙色
+ming-blue 
+n.藏青色
+moss-green 
+n.苔绿色
+green
+n.绿色
+navy-blue 
+n.海水蓝
+blue
+n.蓝色
+purple
+n.紫色
+red
+n.红色
+pink
+n.粉红色
+fruit
+n.水果
+apple
+n.苹果
+pear
+n.梨子
+pineapple
+n.菠萝
+watermelon
+n.西瓜
+grape
+n.葡萄
+kiwi
+n.奇异果
+banana
+n.香蕉
+lichi
+n.荔枝
+dragonfruit
+n.火龙果
+persimmon
+n.柿子
+apicot
+n.李子
+peach
+n.桃子
+golden apple 
+n.黄绿苹果、脆甜 
+granny smith 
+n.绿苹果、较酸 
+bramleys 
+n.可煮食的苹果
+strawberry 
+n.草莓 
+mango 
+n.芒果
+starfruit 杨桃 
+honeydew-melon 
+n.蜜瓜 
+cherry 
+n.樱桃 
+date 
+n.枣子
+coconut 
+n.椰子 
+fig 
+n.无花果
+longan 
+n.龙眼
+wax-apple 
+n.莲雾
+guava 
+n.番石榴
+rice 
+n.米
+long rice 
+n.长米，较硬，煮前先泡一个小时 
+pudding rice or short rice 
+n.短米，较软 
+brown rice 
+n.糙米 　 　 
+thai fragrant rice 
+n.泰国香米
+glutinous rice 
+n.糯米
+sugar
+n.糖
+white sugar 
+n.白砂糖（泡奶茶、咖啡适用，也可用来做糕点） 
+dark brown sugar 
+n.红糖（感冒时可煮姜汤时用） 
+icing sugar 
+n.糖粉（可用在打鲜奶油及装饰蛋糕外层） 
+rock sugar 
+n.冰糖 
+noodles 
+n.面条 
+instant　noodles 
+n.方便面 
+soy sauce 
+n.酱油，分生抽浅色及老抽深色两种 
+vinger 
+n.醋 
+cornstarch 
+n.太白粉 
+maltose 
+n.麦芽糖 
+sesame seeds 
+n.芝麻 
+sesame oil 
+n.麻油 
+oyster sauce 
+n.蚝油 
+pepper 
+n.胡椒 
+black peppers黑胡椒粉 
+red chilli powder 
+n.辣椒粉 
+sesame paste 
+n.芝麻酱 
+beancurd sheet 
+n.腐皮 
+tofu 
+n.豆腐 
+sago n.西贾米 
+creamed coconut n.椰奶油 
+monosidum glutanate 
+n.味精 
+chinese red pepper 
+n.花椒 
+salt black bean 
+n.豆鼓 
+dried fish 
+n.鱼干 
+sea vegetable or sea weed 
+n.海带 
+green bean 
+n.绿豆　　
+red bean 
+n.红豆 
+black bean 
+n.黑豆 
+red kidney bean 
+n.大红豆 
+dried black mushroom 
+n.冬菇 
+pickled mustard-green 
+n.酸菜 silk noodles 粉丝　　
+agar-agar 
+n.燕菜 
+rice-noodle 
+n.米粉 
+bamboo shoots 
+n.竹笋罐头 
+star anise 
+n.八角 
+wantun skin 
+n.馄饨皮 
+dried chestuts 
+n.干粟子 
+tiger lily buds 
+n.金针 
+red date 
+n.红枣 
+water chestnuts 
+n.荸荠 
+mu-er 
+n.木耳 
+dried shrimps 
+n.干虾米 
+cashewnuts 
+n.腰果 
+string bean  
+n.四季豆
+pea 
+n.豌豆
+green soy bean 
+n.毛豆
+soybean sprout 
+n.黄豆芽
+mung bean sprout
+n. 绿豆芽
+bean sprout 
+n.豆芽
+kale 
+n.甘蓝菜
+cabbage 
+n.包心菜; 大白菜
+broccoli 
+n.花椰菜
+mater convolvulus 
+n.空心菜
+dried lily flower 
+n.金针菜
+mustard leaf 
+n.芥菜
+celery 
+n.芹菜
+tarragon 
+n.蒿菜
+beetroot
+n.甜菜
+beet 
+n.甜菜
+agar-agar 
+n.紫菜
+lettuce 
+n.生菜,莴苣
+spinach 
+n.菠菜
+leek 
+n.韭菜
+caraway 
+n.香菜
+hair-like seaweed 
+n.发菜
+preserved szechuan pickle 
+n.榨菜
+salted vegetable 
+n.雪里红
+asparagus 
+n.芦荟
+bamboo shoot 
+n.竹笋
+dried bamboo shoot 
+n.笋干
+chives 
+n.韭黄
+ternip 
+n.白萝卜
+carrot 
+n.胡萝卜
+water chestnut 
+n.荸荠
+sweet potato 
+n.地瓜
+long crooked squash 
+n.菜瓜
+loofah 
+n.丝瓜
+pumpkin 
+n.南瓜
+bitter gourd 
+n.苦瓜
+cucumber 
+n.黄瓜
+winter melon
+n.冬瓜
+gherkin 
+n.小黄瓜
+yam 
+n.山芋
+taro 
+n.芋头
+beancurd sheets 
+n.百叶
+champignon 
+n.香菇
+button mushroom 
+n.草菇
+needle mushroom 
+n.金针菇
+agaricus 
+n.蘑菇
+dried mushroom 
+n.冬菇
+tomato 
+n.番茄
+eggplant 
+n.茄子
+potato
+n.马铃薯
+spud 
+n.马铃薯
+lotus root 
+n.莲藕
+agaric 
+n.木耳
+white fungus 
+n.白木耳
+ginger 
+n.生姜
+garlic 
+n.大蒜
+garlic bulb 
+n.蒜头
+green onion 
+n.葱
+onion 
+n.洋葱
+scallion
+n.青葱
+leek 
+n.青葱
+wheat gluten 
+n.面筋
+miso 
+n.味噌
+seasoning 
+n.调味品
+caviar 
+n.鱼子酱
+barbeque sauce 
+n.烧烤酱
+tomato ketchup
+n.番茄酱
+tomato sauce 
+n.番茄酱
+mustard 
+n.芥茉
+salt n.盐
+gourmet powder 
+n.味精
+sweet 
+adj.甜的
+sour 
+adj.酸的
+bitter 
+adj.苦
+lard 
+n.猪油
+peanut oil 
+n.花生油
+soy sauce 
+n.酱油
+green pepper 
+n.青椒
+paprika 
+n.红椒
+star anise 
+n.八角
+cinnamon 
+n.肉挂
+curry 
+n.咖喱
+coffee pot 
+n.咖啡壶
+coffee cup 
+n.咖啡杯
+paper towel 
+n.纸巾
+napkin 
+n.餐巾
+table cloth 
+n.桌布
+tea -pot 
+n.茶壶
+tea set 
+n.茶具
+tea tray 
+n.茶盘
+caddy 
+n.茶罐
+dish 
+n.碟
+plate 
+n.盘
+saucer 
+n.小碟子
+rice bowl 
+n.饭碗
+chopsticks 
+n.筷子
+soup spoon 
+n.汤匙
+knife 
+n.餐刀
+cup 
+n.杯子
+glass 
+n.玻璃杯
+mug 
+n.马克杯
+picnic lunch 
+n.便当
+fruit plate 
+n.水果盘
+toothpick 
+n.牙签
+bear's paw 
+n.熊掌
+breast of deer 
+n.鹿脯
+beche-de-mer
+n.海参
+sea cucumber 
+n.海参
+sea sturgeon 
+n.海鳝
+salted jelly fish 
+n.海蜇皮
+kelp
+n.海带
+seaweed 
+n.海带
+abalone 
+n.鲍鱼
+shark fin 
+n.鱼翅
+scallops 
+n.干贝
+lobster 
+n.龙虾
+bird's nest 
+n.燕窝
+roast suckling pig 
+n.考乳猪
+pig's knuckle
+n. 猪脚
+boiled salted duck 
+n.盐水鸭
+preserved meat 
+n.腊肉
+barbecued pork 
+n.叉烧
+sausage 
+n.香肠
+fried pork flakes 
+n.肉松
+BAR-B-Q 
+n.烤肉
+meat diet 
+n.荤菜
+vegetables 
+n.蔬菜
+meat broth 
+n.肉羹
+local dish 
+n.地方菜
+Cantonese cuisine 
+n.广东菜
+set meal 
+n.客饭
+curry rice 
+n.咖喱饭
+fried rice 
+n.炒饭
+plain rice 
+n.白饭
+crispy rice 
+n.锅巴
+gruel
+n.粥
+soft rice 
+n.粥
+porridge 
+n.粥
+noodles with gravy 
+n.打卤面
+plain noodle 
+n.阳春面
+casserole 
+n.砂锅
+chafing dish
+n.火锅
+hot-pot 
+n.火锅
+meat bun 
+n.肉包子
+shao-mai 
+n.烧麦
+preserved bean curd 
+n.腐乳
+bean curd 
+n.豆腐
+fermented blank bean 
+n.豆豉
+pickled cucumbers 
+n.酱瓜
+preserved egg 
+n.皮蛋
+salted duck egg 
+n.咸鸭蛋
+dried turnip 
+n.萝卜干
+menu 
+n.菜单
+French cuisine 
+n.法国菜
+today's special 
+n.今日特餐
+chef's special 
+n.主厨特餐
+buffet 
+n.自助餐
+fast food 
+n.快餐
+specialty 
+n.招牌菜
+continental cuisine 
+n.欧式西餐
+aperitif 
+n.饭前酒
+dim sum 
+n.点心
+French fires 
+n.炸薯条
+baked potato 
+n.烘马铃薯
+mashed potatoes 
+n.马铃薯泥
+omelette 
+n.简蛋卷
+pudding 
+n.布丁
+pastries 
+n.甜点
+pickled vegetables 
+n.泡菜
+kimchi 
+n.韩国泡菜
+crab meat 
+n.蟹肉
+prawn 
+n.明虾
+conch 
+n.海螺
+escargots 
+n.田螺
+braised beef 
+n.炖牛肉
+bacon 
+n.培根
+poached egg 
+n.荷包蛋
+sunny side up 
+n.煎一面荷包蛋
+fried egg 
+n.煎蛋
+over easy
+n. 煎半熟蛋
+over hard 
+n.煎全熟蛋
+scramble eggs 
+n.炒蛋
+boiled egg 
+n.煮蛋
+stone fire pot 
+n.石头火锅
+sashi 
+n.日本竹筷
+sake 
+n.日本米酒
+miso shiru 
+n.味噌汤
+roast meat 
+n.铁板烤肉
+sashimi 
+n.生鱼片
+butter 
+n.人造黄油
+atmosphere
+n.大气
+atmospheric composition
+n.大气组成 
+air quality
+n.空气质量 
+atmospheric chemistry
+n.大气化学 
+atmospheric components
+n.大气成分 
+atmospheric particulates
+n.大气颗粒物 
+carbon dioxide
+n.二氧化碳 
+greenhouse gases
+n.温室气体 
+Oxygen
+n.氧气
+ozone layer
+n.臭氧层 
+atmospheric processes
+n.大气过程 
+air-water interaction
+n.空气－水相互作用 
+atmospheric circulation
+n.大气环流 
+atmospheric precipitation
+n.大气降水 
+carbon cycle
+n.碳循环 
+evaporation
+n.蒸发作用 
+precipitation enhancement
+n.降水增加 
+rainfall
+n.降雨 
+solar radiation
+n.太阳辐射 
+transpiration
+n.蒸腾作用 
+wind
+n.风 
+air pollution
+n.空气污染 
+acid rain
+n.酸雨 
+air pollutants
+n.空气污染物 
+chlorofluorocarbons
+n.氯氟碳 
+deposited particulate matter
+n.沉降的颗粒物 
+fly ash
+n.飞灰 
+fog
+n.雾 
+haze
+n.薄烟 
+indoor air pollution
+n.空内空气污染 
+Smog
+n.烟雾 
+climatic issues
+n.气候问题 
+agrometeorology
+n.农业气象学 
+climate
+n.气候 
+climatic change
+n.气候变化 
+climatic zones
+n.气候带 
+drought
+n.干旱 
+global warming
+n.全球变暖 
+greenhouse effect
+n.温室效应 
+humidity
+n.湿度 
+microclimate effects
+n.微气候影响
+sea level rise
+n.海平面上升 
+weather modification
+n.人工影响天气 
+lithosphere
+n.岩石圈 
+solid earth
+n.固态地球 
+caves
+n.洞穴 
+seismic activity
+n.地震活动 
+seismic monitoring
+n.地震监测 
+volcanoes
+n.火山 
+wind erosion
+n.风蚀 
+terrestrial ecosystems
+n.陆地生态系统 
+soils
+n.土壤 
+agricultural land
+n.农用土地 
+alkali lands
+n.碱地 
+contaminated land
+n.污染的土地 
+contaminated soil
+n.污染的土壤 
+gravel pits
+n.沙坑 
+heath lands
+n.荒地 
+land carrying capacity
+n.土地承载能力 
+land pollution
+n.土地污染
+land reclamation
+n.土地开垦 
+land restoration
+n.土地恢复 
+land use classification
+n.土地使用分类 
+marginal lands
+n.边缘土地 
+sand extraction
+n.沙石开采 
+沉积 Sedimentation
+soil capabilities
+n.土壤潜力 
+soil conservation
+n.土壤保持 
+soil contamination
+n.土壤污染 
+soil degradation
+n.土壤退化 
+soil erosion
+n.土壤侵蚀 
+soil improvement
+n.土壤改良 
+soil salination
+n.土壤盐碱化 
+Water erosion
+n.水蚀 
+arid land ecosystems
+n.干旱地区生态系统 
+arid lands
+n.干旱土地 
+desertification
+n.沙漠化 
+drought control
+n.抗旱 
+dry farming
+n.旱作 
+sand dune fixation
+n.沙丘固定 
+sand dunes
+n.沙丘 
+semi-arid land ecosystems
+n.半干旱地区生态系统 
+forest ecosystems
+n.森林生态系统 
+afforestation
+n.植树造林 
+coniferous forests
+n.针叶林 
+deforestation
+n.森林砍伐
+forest conservation
+n.森林保护
+forest fires
+n.森林火灾 
+grass fires
+n.草地火灾 
+greenbelts
+n.绿化带 
+indigenous forests
+n.本地森林 
+reafforestation
+n.再造林 
+revegetation
+n.植被恢复 
+sub-tropical ecosystems
+n.亚热带生态系统 
+temperate forests
+n.温带森林 
+temperate woodlands
+n.温带林地 
+tree
+n.树木 
+tropical ecosystems
+n.热带生态系统 
+tropical forests
+n.热带森林 
+tropical forest ecosystems
+n.热带森林生态系统 
+woodland ecosystems
+n.林地生态系统 
+temperate ecosystems and cold zone ecosystems
+n.温带生态系统和寒带生态系统 
+antarctic ecosystems
+n.南极生态系统 
+antarctic region
+n.南极地区 
+arctic ecosystems
+n.北极生态系统 
+arctic region
+n.北极地区 
+cold zone ecosystems
+n.寒带生态系统 
+grassland ecosystems
+n.草地生态系统
+permafrost ecosystems
+n.永久冻土生态系统 
+polar ecosystems
+n.极地生态系统 
+temperate ecosystems
+n.温带生态系统 
+mountain ecosystems
+n.山地生态系统 
+highland ecosystems
+n.高原生态系统 
+mountaineering
+n.登山运动 
+wetlands ecosystems
+n.红树沼泽 湿地生态系统 
+mangrove swamps
+n.红树沼泽 
+waterfowl
+n.水禽 
+waterlogged lands
+n.水涝地 
+
+watershed management
+n.流域管理 
+waterside development
+n.水边开发 
+biological diversity and protected areas
+n.生物多样性和保护区 
+adaptable species
+n.适应性强的物种 
+algae
+n.藻类 
+amphibians
+n.两栖动物 
+animal behaviour
+n.动物习性 
+animal resources
+n.动物资源 
+arthropods
+n.节肢动物 
+biological diversity
+n.生物多样性 
+biological resources
+n.生物资源 
+biosphere reserves
+n.生物圈保护区 
+biotopes
+n.群落生境 
