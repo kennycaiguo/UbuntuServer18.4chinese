@@ -1,0 +1,9 @@
+ubuntu 18.04 安装mysql5.7:
+1.sudo apt-get install mysql-server
+2.cd /etc/mysql
+3. sudo cat debian.cnf
+4.将这个文件的内容复制到mysql.cnf中，前提是需要设置这个
+文件的为可读写。保存。注意：使用[client]节点下面的用户名和密码。
+
+登陆：
+打开终端，输入：mysql -u用户名 -p密码.
