@@ -1,5 +1,13 @@
 # UbuntuServer18.4chinese
 Ubuntu server and Client
+makefile相关：
+makefile的格式：
+可执行文件：依赖项目
+（tab）编译命令
+target:dependencies
+  (tab）cmd
+  注意：需要安装make
+
 ## 相关链接
 # <a href="https://blog.csdn.net/fx_yzjy101/article/details/80238014">将Ubuntu设置为中文</a>
 # <a href="https://blog.csdn.net/jiangshuanshuan/article/details/95718528?utm_medium=distribute.pc_relevant_bbs_down.none-task-blog-baidujs-1.nonecase&depth_1-utm_source=distribute.pc_relevant_bbs_down.none-task-blog-baidujs-1.nonecase">vmware虚拟机运行ubuntu等卡慢的解决办法</a>
