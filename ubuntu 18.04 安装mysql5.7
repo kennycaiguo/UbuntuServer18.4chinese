@@ -1,9 +1,73 @@
-ubuntu 18.04 安装mysql5.7:
-1.sudo apt-get install mysql-server
-2.cd /etc/mysql
-3. sudo cat debian.cnf
-4.将这个文件的内容复制到mysql.cnf中，前提是需要设置这个
-文件的为可读写。保存。注意：使用[client]节点下面的用户名和密码。
+Ubuntu18.04安装、卸载MySQL
 
-登陆：
-打开终端，输入：mysql -u用户名 -p密码.
+在 Ubuntu18.04 中使用 sudo apt-get install mysql-server 安装 MySQL时，会默认安装 MySQL5.7，且无法通过 mysql -uroot -p 进入 MySQL。报错："Access denied for user 'root'@'localhost'"
+
+原因：root 的 plugin 被修改为了 auth_socket，而密码登录的 plugin 应该是 mysql_native_password。
+
+## 一、安装命令
+依次执行一下命令：
+
+sudo apt-get install mysql-server
+
+sudo apt install mysql-client
+
+sudo apt install libmysqlclient-dev
+
+sudo netstat -tap | grep mysql
+## 二、设置密码
+直接 Root 权限登录，可不用密码。
+
+# 切换到Root用户
+$ sudo su
+# 直接进入MySQL，无须密码
+$ mysql
+# 查看账户，可看出 root 的 plugin 是 auth_socket，其他的都是 mysql_native_password
+mysql> select user,plugin,from mysql.user;
++------------------+-----------------------+
+| user             | plugin                |
++------------------+-----------------------+
+| root             | auth_socket           |
+| mysql.session    | mysql_native_password |
+| mysql.sys        | mysql_native_password |
+| debian-sys-maint | mysql_native_password |
++------------------+-----------------------+
+4 rows in set (0.00 sec)
+# 更新密码、更换 plugin
+mysql> update mysql.user set authentication_string=PASSWORD('123456'), plugin='mysql_native_password' where user='root';
+# 刷新权限
+mysql> flush privileges;
+# 退出MySQL
+mysql> exit
+# 重启MySQL服务
+$ sudo /etc/init.d/mysql restart
+此时再输入 mysql -uroot -p，即可通过密码连接了。
+
+## 三、配置远程登录
+，并将root的访问改为 *.* 即可。
+
+# 找到配置文件，注释掉bind-address
+$ sudo vim /etc/mysql/mysql.conf.d/mysqld.cnf
+# 进入MySQL
+$ mysql -uroot -p
+# 修改Root用户的访问权限
+mysql> grant all on *.* to root@'%' identified by '123456' with grant option;
+# 刷新权限
+mysql> flush privileges;
+# 退出MySQL
+mysql> exit
+# 重启MySQL服务
+$ sudo /etc/init.d/mysql restart
+## 四、卸载MySQL
+# 查看 MySQL 的依赖项
+$ dpkg --list|grep mysql
+# 卸载命令
+$ sudo apt-get remove mysql-common
+# 卸载命令
+$ sudo apt-get autoremove --purge mysql-server-5.7
+# 清除残留数据
+$ dpkg -l|grep ^rc|awk '{print$2}'|sudo xargs dpkg -P
+# 再次查看 MySQL 剩余依赖项
+$ dpkg --list|grep mysql
+# 删除剩余依赖项
+$ sudo apt-get autoremove --purge mysql-apt-config
+
